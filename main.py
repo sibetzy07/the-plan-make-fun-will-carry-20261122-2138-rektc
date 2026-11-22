@@ -9,6 +9,7 @@ the text is fixed and embedded below.
 import os
 
 PLAN = (
+    # 277 Unicode code points: within the gate's 1-280 range.
     "Day 1: find 200 plumbers/roofers/dentists with no website on "
     "Google Maps. Build each a one-page site, email the preview: "
     "$99 to keep. Spend $100 on a domain + email for inbox delivery. "
