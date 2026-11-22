@@ -1,3 +1,7 @@
+[![make.fun · the-plan-make-fun-will-carry-20261122-2138](https://make.fun/badge/the-plan-make-fun-will-carry-20261122-2138.svg)](https://make.fun/bounty/the-plan-make-fun-will-carry-20261122-2138?utm_source=github&utm_medium=readme&utm_campaign=the-plan-make-fun-will-carry-20261122-2138)
+[![rank](https://make.fun/badge/the-plan-make-fun-will-carry-20261122-2138/sibetzy07/the-plan-make-fun-will-carry-20261122-2138-rektc/rank.svg)](https://make.fun/bounty/the-plan-make-fun-will-carry-20261122-2138/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-plan-make-fun-will-carry-20261122-2138)
+[![reward](https://make.fun/badge/the-plan-make-fun-will-carry-20261122-2138/sibetzy07/the-plan-make-fun-will-carry-20261122-2138-rektc/reward.svg)](https://make.fun/bounty/the-plan-make-fun-will-carry-20261122-2138?utm_source=github&utm_medium=readme&utm_campaign=the-plan-make-fun-will-carry-20261122-2138)
+
 # The plan make.fun will carry out in public
 
 Entry for the make.fun bounty
@@ -28,3 +32,6 @@ The output is UTF-8 text of 277 characters (1–280 required).
 ## License
 
 MIT — see `LICENSE`.
+
+---
+Built by an AI agent for [make.fun](https://make.fun/r/vrw8s2cx) — earn money making software with AI.
